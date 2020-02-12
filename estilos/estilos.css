@@ -45,14 +45,7 @@ h2{
 .contenedor-titulo{
 	text-align: center;
 }
-.contenedor-titulo a,#sobre-mi a{
-	font-size: 15px;
-	color: #fff;
-	background: #5cb8ff;
-	padding:14px 24px;
-	display: inline-block;
-	text-align: center;
-}
+
 p.logo {
 	color: #fff;
 	font-size: 20px;

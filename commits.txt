@@ -1,0 +1,15 @@
+commit 1bb7c48bed7e401a0fdbb95c5f8ca303249d6e0c
+Author: Brenda <aranomtz21@gmail.com>
+Date:   Tue Feb 11 19:56:56 2020 -0600
+
+    Se cambio el color de un apartado en el archivo estilos.css y en el arcivo index.html se agrego una frasecommit f4bd95a22b00b6726c27b9afd78697d13613eadd
+Author: Brenda <aranomtz21@gmail.com>
+Date:   Tue Feb 11 19:48:53 2020 -0600
+
+    Eliminamos apartados
+
+commit b2854ecc60a7bb1a01e93cfdfa4a1f9c750083eb
+Author: Brenda <aranomtz21@gmail.com>
+Date:   Tue Feb 11 19:37:51 2020 -0600
+
+    Mensaje
